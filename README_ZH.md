@@ -1,6 +1,9 @@
 # Claude Code Windows Enhancer
 
 Claude Code Windows 桌面伴侣工具 —— **桌面通知 + 一键跳转 + 后台提速 + 多实例隔离**。零第三方依赖，纯 Python 标准库 + Win32 API。
+1.解决了Claude code完成任务以及权限请求时不会发送提醒的问题，同时可以直接通过通知提醒直接跳转到对应的Claude界面
+2.解决了即便多个Claude code界面出发对话任务，仍然可以跳转到正确的Claude界面
+3.解决了Claude code在后台运行时，被系统强制降频、节流
 
 ## 功能
 
