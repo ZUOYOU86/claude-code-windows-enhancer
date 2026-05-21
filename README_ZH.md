@@ -155,6 +155,3 @@ python boost.py --daemon                 # 后台持续守护
 └── LICENSE             # MIT
 ```
 
-## License
-
-MIT
