@@ -144,6 +144,5 @@ python boost.py --daemon                 # Run background watchdog
 └── LICENSE             # MIT
 ```
 
-## License
 
-MIT — do whatever you want with it.
+
